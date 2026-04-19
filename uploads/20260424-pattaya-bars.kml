@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>20260424 芭堤雅夜生活地圖</name>
+  <description>阿峰老師的芭堤雅酒吧清單 — 含妹子資訊（精準座標版）</description>
+  <Style id="soi6"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/blue-dot.png</href></Icon></IconStyle></Style>
+  <Style id="ws"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon></IconStyle></Style>
+  <Style id="lk"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href></Icon></IconStyle></Style>
+  <Style id="other"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/purple-dot.png</href></Icon></IconStyle></Style>
+
+  <Folder><name>🔵 Soi 6（21家）</name>
+
+    <Placemark><name>3Angels【2妹】Pin, 拉吉妹</name>
+    <description><![CDATA[<b>妹子：</b><br/>① 拉吉妹 🔥 — 想要包包+飯店+蠟筆小新<br/>② Pin（พิณ）26歲 — 甜美性感型，淺金長髮，胸部大]]></description>
+    <styleUrl>#soi6</styleUrl><Point><coordinates>100.8876865,12.9419438,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Love Missile【1妹】Pranee</name>
+    <description><![CDATA[① Pranee（ปราณี）26歲 — 金色短髮，紅色開衩連身裙，時尚性感型]]></description>
+    <styleUrl>#soi6</styleUrl><Point><coordinates>100.8876010,12.9420216,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Oppa Bar【1妹】Mali</name>
+    <description><![CDATA[① Mali（มะลิ）20歲 — 超嫩！皮膚白皙，清純可愛但身材猛 🔥]]></description>
+    <styleUrl>#soi6</styleUrl><Point><coordinates>100.8871944,12.9419444,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Offshore Bar ⭐⭐⭐【4妹】護士裝主題</name>
+    <description><![CDATA[超有料！4個妹：銀色比基尼妹×3 + 護士裝妹 🔥🔥]]></description>
+    <styleUrl>#soi6</styleUrl><Point><coordinates>100.8869879,12.9421966,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Roxy Bar【1妹】Pie</name>
+    <description><![CDATA[① Pie（พาย）20歲 — 清純鄰家型，皮膚白皙，笑容超甜]]></description>
+    <styleUrl>#soi6</styleUrl><Point><coordinates>100.8869368,12.9422169,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Baba Bar【2妹】Krongkwan, 紅裙妹</name>
+    <description><![CDATA[① Krongkwan ⭐ 會英文！<br/>② 紅裙妹 — 成熟性感型，紅色深V連身裙]]></description>
+    <styleUrl>#soi6</styleUrl><Point><coordinates>100.8867540,12.9421115,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Butterfly Bar 🦋【1妹】Sasithorn</name>
+    <description><![CDATA[① Sasithorn（ศศิธร）23歲 — 清純鄰家型，短髮Bob頭，腿長]]></description>
+    <styleUrl>#soi6</styleUrl><Point><coordinates>100.8864480,12.9423663,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Chili Bar 🌶️【2妹】Kanya, 粉紫妹</name>
+    <description><![CDATA[① Kanya（กัญญา）21歲 — 異國風情，頭戴紅花🌺<br/>② 粉紫比基尼妹 — 超豐滿 🔥🔥]]></description>
+    <styleUrl>#soi6</styleUrl><Point><coordinates>100.8863021,12.9423848,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Liquid 🔥【1妹】Book</name>
+    <description><![CDATA[① Book（บุ๊ค）27歲 — 冷艷性感，黑色警察制服，胸部超大 🔥🔥🔥 有鋼管舞]]></description>
+    <styleUrl>#soi6</styleUrl><Point><coordinates>100.8863153,12.9424434,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Benders【1妹】Oil</name>
+    <description><![CDATA[① Oil（ออยล์）26歲 — 金色長直髮，甜美可愛型]]></description>
+    <styleUrl>#soi6</styleUrl><Point><coordinates>100.8861932,12.9423245,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Horny Bar【1妹】Kaem 🔥</name>
+    <description><![CDATA[① Kaem（แกม）牙套短髮妹 — 她主動約見面！非常主動熱情]]></description>
+    <styleUrl>#soi6</styleUrl><Point><coordinates>100.8861905,12.9424598,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Wicked 🔥【1妹】Ratchanee</name>
+    <description><![CDATA[① Ratchanee（รัชนี）23歲 — 警察制服，胸部超大 🔥🔥🔥]]></description>
+    <styleUrl>#soi6</styleUrl><Point><coordinates>100.8860189,12.9425121,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Repent Bar【3妹】護士裝主題</name>
+    <description><![CDATA[① 嬌小可愛妹（粉紅和服）<br/>② 豐滿護士妹 🔥<br/>③ Fon（ฝน）30歲 — 深V護士裝，胸部超大]]></description>
+    <styleUrl>#soi6</styleUrl><Point><coordinates>100.8860189,12.9425124,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Sweet Bar 🍬【1妹】Amporn</name>
+    <description><![CDATA[① Amporn（อัมพร）25歲 — 鄰家甜美型，笑容超自然]]></description>
+    <styleUrl>#soi6</styleUrl><Point><coordinates>100.8858888,12.9425487,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Wet Six【1妹】Porntip</name>
+    <description><![CDATA[① Porntip（พรทิพย์）22歲 — 優雅性感型，黑色蕾絲連身裙]]></description>
+    <styleUrl>#soi6</styleUrl><Point><coordinates>100.8856700,12.9426370,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Utopia【1妹】Snow</name>
+    <description><![CDATA[① Snow（สโนว์）20歲 — 超嫩！護士裝，陽光甜美型]]></description>
+    <styleUrl>#soi6</styleUrl><Point><coordinates>100.8854905,12.9425892,0</coordinates></Point></Placemark>
+
+    <Placemark><name>MIYU Bar【5妹】MIND, FAYE, NAJA...</name>
+    <description><![CDATA[① MIND ⭐ 短髮可愛<br/>② FUEANG 😏 很會撩<br/>③ FAYE ⭐ 長髮甜美<br/>④ NOMSOD ⭐ 紅比基尼<br/>⑤ NAJA ⭐ 短髮清新（新！）]]></description>
+    <styleUrl>#soi6</styleUrl><Point><coordinates>100.8854,12.9427,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Envy Bar ⭐⭐⭐【3妹】警察制服主題</name>
+    <description><![CDATA[🚔 警察制服主題！<br/>① 警察妹#1 — 黑絲襪 🔥<br/>② 警察妹#2 — 棕色長髮 🔥<br/>③ 黑洋裝妹 — 超長黑直髮]]></description>
+    <styleUrl>#soi6</styleUrl><Point><coordinates>100.8853430,12.9427454,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Avarice ⭐【4妹】Fang, Pueng, Ink, Lamai</name>
+    <description><![CDATA[四種風格！<br/>① Fang 29歲 — 辣妹型，金髮，胸部很大 🔥<br/>② Pueng 27歲 — 水手服，臀部超好<br/>③ Ink 20歲 — 足球妹，辮子超可愛<br/>④ Lamai 22歲 — 蕾絲甜妹]]></description>
+    <styleUrl>#soi6</styleUrl><Point><coordinates>100.8852725,12.9427764,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Miso Bar ⭐⭐⭐【3妹】Ploy, Cos, Maprang</name>
+    <description><![CDATA[超有料！<br/>① Ploy ⭐ 棕髮豐滿性感<br/>② Cos ⭐ 黑髮可愛<br/>③ Maprang 25歲 — 新妹！胸部很大 🔥]]></description>
+    <styleUrl>#soi6</styleUrl><Point><coordinates>100.8851922,12.9426842,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Omega Bar【1妹】紋身妹</name>
+    <description><![CDATA[① 紋身妹 — 酷女孩風格，手臂腿部大面積紋身]]></description>
+    <styleUrl>#soi6</styleUrl><Point><coordinates>100.8856,12.9427,0</coordinates></Point></Placemark>
+
+  </Folder>
+
+  <Folder><name>🔴 Walking Street（9家）</name>
+
+    <Placemark><name>Fahrenheit A Go Go【0妹】</name>
+    <description><![CDATA[知名 Agogo Bar，待探索]]></description>
+    <styleUrl>#ws</styleUrl><Point><coordinates>100.8736810,12.9266301,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Sapphire Club【1妹】Mild</name>
+    <description><![CDATA[① Mild（มายด์）30歲 — 性感女神，青綠蕾絲比基尼，專業GoGo舞者]]></description>
+    <styleUrl>#ws</styleUrl><Point><coordinates>100.8738326,12.9262016,0</coordinates></Point></Placemark>
+
+    <Placemark><name>XS Pattaya ⭐⭐⭐【1妹】Jaa</name>
+    <description><![CDATA[很頂！阿峰老師強推！<br/>① Jaa（จ๋า）22歲 — 性感辣妹，身材超好 🔥🔥🔥]]></description>
+    <styleUrl>#ws</styleUrl><Point><coordinates>100.8737183,12.9266686,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Chick Gogo Club【0妹】</name>
+    <description><![CDATA[待探索]]></description>
+    <styleUrl>#ws</styleUrl><Point><coordinates>100.8737665,12.9267076,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Iron Club 🔥【3妹】Thanika, Nid, Aom</name>
+    <description><![CDATA[暗黑風格！<br/>① Thanika 27歲 — 修女裝，胸部超大 🔥🔥<br/>② Nid 21歲 — 紅色長髮！叛逆辣妹<br/>③ Aom 28歲 — 清純反差型，臉蛋超正]]></description>
+    <styleUrl>#ws</styleUrl><Point><coordinates>100.8733075,12.9266007,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Shark A-Gogo【0妹】</name>
+    <description><![CDATA[待探索]]></description>
+    <styleUrl>#ws</styleUrl><Point><coordinates>100.8733203,12.9264235,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Atmos Pattaya【1妹】Snow</name>
+    <description><![CDATA[① Snow 20歲 — 清純反差型，黑色蕾絲內衣，臉蛋可愛穿著超辣]]></description>
+    <styleUrl>#ws</styleUrl><Point><coordinates>100.8730370,12.9264215,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Pinup Gogo ⭐⭐⭐【2妹】LE7, Lek</name>
+    <description><![CDATA[復古Pin-up主題！<br/>① LE7 — 超可愛！粉紅比基尼 🔥😍<br/>② Lek 27歲 — 紅色比基尼，曲線完美]]></description>
+    <styleUrl>#ws</styleUrl><Point><coordinates>100.8726963,12.9260387,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Republic Club【0妹】夜店</name>
+    <description><![CDATA[指定要去的夜店，派對氛圍]]></description>
+    <styleUrl>#ws</styleUrl><Point><coordinates>100.8723632,12.9255324,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Identi【1妹】Busaba</name>
+    <description><![CDATA[① Busaba #325，22歲 — 甜美活潑，藍色比基尼]]></description>
+    <styleUrl>#ws</styleUrl><Point><coordinates>100.8740,12.9268,0</coordinates></Point></Placemark>
+
+    <Placemark><name>SUN'S Club【1妹】Tuk（夜店）</name>
+    <description><![CDATA[① Tuk（ตุ๊ก）30歲 — 派對女王，黑色露背連身裙]]></description>
+    <styleUrl>#ws</styleUrl><Point><coordinates>100.8707185,12.9252106,0</coordinates></Point></Placemark>
+
+  </Folder>
+
+  <Folder><name>🟢 LK Metro（3家）</name>
+
+    <Placemark><name>Las Vegas Agogo【1妹】581</name>
+    <description><![CDATA[① 581 — 上次認識的，指定要找]]></description>
+    <styleUrl>#lk</styleUrl><Point><coordinates>100.8846385,12.930277,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Sugar Sugar Agogo【0妹】</name>
+    <description><![CDATA[待探索，跟Las Vegas同區]]></description>
+    <styleUrl>#lk</styleUrl><Point><coordinates>100.885235,12.929558,0</coordinates></Point></Placemark>
+
+  </Folder>
+
+  <Folder><name>🟣 其他區域</name>
+
+    <Placemark><name>The Wild 69 Bar【1妹】Kimmy</name>
+    <description><![CDATA[Soi Buakhao 在地人夜生活區<br/>① Kimmy ⭐]]></description>
+    <styleUrl>#other</styleUrl><Point><coordinates>100.8832991,12.9276933,0</coordinates></Point></Placemark>
+
+    <Placemark><name>Bunny Bar 🐰【2妹】Dao, Cream</name>
+    <description><![CDATA[南芭提雅<br/>① Dao 21歲 — 時尚成熟型<br/>② Cream 24歲 — 性感女神，銀色亮片 🔥]]></description>
+    <styleUrl>#other</styleUrl><Point><coordinates>100.8769329,12.9241805,0</coordinates></Point></Placemark>
+
+  </Folder>
+
+</Document>
+</kml>
