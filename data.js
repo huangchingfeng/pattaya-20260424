@@ -311,10 +311,20 @@ window.LOCATIONS = [
   // ============ Walking Street ============
   {
     id: "fahrenheit", name: "Fahrenheit A Go Go", area: "Walking Street", type: "agogo",
-    lat: 12.9266301, lng: 100.8736810, rating: 3,
+    lat: 12.9266301, lng: 100.8736810, rating: 4,
     address: "Walking St, Pattaya City, Bang Lamung District, Chon Buri 20150",
-    note: "知名 Agogo Bar，待探索",
-    girls: []
+    note: "小間但超近距離看表演！約30座位，舞台幾乎碰到前排桌子。8個妹！",
+    contact: "IG: patta.map",
+    girls: [
+      { name: "Aom", age: 22, desc: "黑色長髮、網狀絲襪" },
+      { name: "Fern", age: 23, desc: "紅色比基尼、性感" },
+      { name: "Noch", age: 21, desc: "黑色比基尼" },
+      { name: "Ratchanee", age: 24, desc: "紅色比基尼、紋身" },
+      { name: "Dew", age: 20, tag: "超嫩", desc: "年紀最小" },
+      { name: "Ink", age: 22, desc: "黑色裝扮" },
+      { name: "Sin", age: 22, desc: "紅色比基尼" },
+      { name: "June", age: 25, desc: "紅色比基尼、手臂大面積紋身" }
+    ]
   },
   {
     id: "sapphire", name: "Sapphire Club", area: "Walking Street", type: "agogo",
