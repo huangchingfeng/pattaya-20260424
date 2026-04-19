@@ -450,6 +450,22 @@ window.LOCATIONS = [
     note: "Soi Buakhao 是在地人夜生活區",
     girls: [ { name: "Kimmy", tag: "⭐ 也不錯", desc: "上次認識" } ]
   },
+  // ============ 住宿 ============
+  {
+    id: "muxa", name: "🏨 MUXA 中心海景公寓", area: "Soi 6", type: "hotel",
+    lat: 12.9432, lng: 100.8847,
+    address: "268 Pattaya Second Road, Soi 5, Na Kluea, Bang Lamung, Chon Buri 20150",
+    rating: 5,
+    note: "4/24-4/27（3晚）已訂！1房1廳+廚房，TWD 3,375。訂單號：1616329598027929。泳池/三溫暖/健身房。就在 Soi 6 旁邊，走路就到！",
+    girls: []
+  },
+  {
+    id: "hotel-tbd", name: "🏨 4/27-5/4 住宿（未訂）", area: "Soi 6", type: "hotel",
+    lat: 12.9430, lng: 100.8850,
+    note: "⚠️🔴 7 晚還沒訂！趕快訂！",
+    girls: []
+  },
+
   {
     id: "bunny", name: "Bunnyz Bar 🐰", area: "Soi Buakhao", type: "bar",
     lat: 12.9290, lng: 100.8817, rating: 4,
@@ -469,7 +485,8 @@ window.LOCATIONS = [
 window.TYPE_META = {
   bar:   { label: "Beer Bar", color: "#3b82f6", icon: "🍺" },
   agogo: { label: "Gogo Bar", color: "#ef4444", icon: "💃" },
-  club:  { label: "Nightclub", color: "#a855f7", icon: "🎉" }
+  club:  { label: "Nightclub", color: "#a855f7", icon: "🎉" },
+  hotel: { label: "住宿", color: "#f59e0b", icon: "🏨" }
 };
 
 window.AREA_META = {
