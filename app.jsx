@@ -242,6 +242,13 @@ function App() {
     return () => map.remove();
   }, []);
 
+  // ============ Invalidate map size when sidebar toggles ============
+  useEffect(() => {
+    if (mapInstance.current) {
+      setTimeout(() => mapInstance.current.invalidateSize(), 350);
+    }
+  }, [sidebarOpen]);
+
   // ============ Filtering ============
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
@@ -331,8 +338,10 @@ function App() {
     if (!selectedId || !mapInstance.current) return;
     const loc = locations.find(l => l.id === selectedId);
     if (!loc) return;
-    // fly to
-    mapInstance.current.flyTo([loc.lat, loc.lng], Math.max(mapInstance.current.getZoom(), 16), { duration: 0.5 });
+    // fly to — smooth pan without forced zoom change
+    const currentZoom = mapInstance.current.getZoom();
+    const targetZoom = currentZoom < 15 ? 15 : currentZoom;
+    mapInstance.current.flyTo([loc.lat, loc.lng], targetZoom, { duration: 0.4, easeLinearity: 0.5 });
 
     // build DOM via React portal approach
     const container = document.createElement("div");
@@ -361,8 +370,11 @@ function App() {
     if (!marker) return;
 
     const popup = L.popup({
-      closeButton: true, autoPan: true, autoPanPadding: [40, 40],
-      maxWidth: 320, minWidth: 320
+      closeButton: true, autoPan: true, autoPanPadding: [60, 60],
+      maxWidth: 300, minWidth: 280,
+      keepInView: true,
+      autoPanPaddingTopLeft: [60, 80],
+      autoPanPaddingBottomRight: [60, 60]
     }).setLatLng(marker.getLatLng()).setContent(container).openOn(mapInstance.current);
 
     popupRef.current = { popup, root, renderPop };
@@ -467,8 +479,9 @@ function App() {
                   order={getItinOrder(loc.id)}
                   rating={ratings[loc.id] || loc.rating || 0}
                   onClick={() => {
-                    setSelectedId(loc.id);
                     setSidebarOpen(false);
+                    // delay selection so map has time to resize after sidebar closes
+                    setTimeout(() => setSelectedId(loc.id), 300);
                   }}
                   onFav={() => toggleFav(loc.id)}
                   onVisit={() => toggleVisited(loc.id)}
