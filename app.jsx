@@ -415,9 +415,10 @@ function App() {
       <aside className={`sidebar ${sidebarOpen ? "open" : ""}`}>
         <div className="sb-header">
           <div className="sb-title">
-            <div>
+            <button className="mobile-close" onClick={() => setSidebarOpen(false)}>✕</button>
+            <div style={{flex:1}}>
               <h1>芭堤雅夜生活地圖</h1>
-              <div className="sub">{filtered.length} / {locations.length} 個地點 · 4/3–4/6</div>
+              <div className="sub">{filtered.length} / {locations.length} 個地點 · {favs.length} 最愛 · {visited.length} 去過</div>
             </div>
             <div className="sb-actions">
               <button className={`icon-btn ${favOnly ? "active" : ""}`} onClick={() => setFavOnly(v => !v)} title="只看最愛">
@@ -489,6 +490,9 @@ function App() {
               ))}
         </div>
       </aside>
+
+      {/* Mobile backdrop */}
+      <div className={`sidebar-backdrop ${sidebarOpen ? "active" : ""}`} onClick={() => setSidebarOpen(false)} />
 
       {/* Map */}
       <div className="map-wrap">
