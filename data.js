@@ -453,15 +453,15 @@ window.LOCATIONS = [
   // ============ 住宿 ============
   {
     id: "muxa", name: "🏨 MUXA 中心海景公寓", area: "Soi 6", type: "hotel",
-    lat: 12.9432, lng: 100.8847,
-    address: "268 Pattaya Second Road, Soi 5, Na Kluea, Bang Lamung, Chon Buri 20150",
+    lat: 12.939593, lng: 100.888267,
+    address: "268 Thanon Pattayasaisong (Pattaya Second Road), 20150 芭達雅中心",
     rating: 5,
     note: "4/24-4/27（3晚）已訂！1房1廳+廚房，TWD 3,375。訂單號：1616329598027929。泳池/三溫暖/健身房。就在 Soi 6 旁邊，走路就到！",
     girls: []
   },
   {
     id: "hotel-tbd", name: "🏨 4/27-5/4 住宿（未訂）", area: "Soi 6", type: "hotel",
-    lat: 12.9430, lng: 100.8850,
+    lat: 12.9398, lng: 100.8885,
     note: "⚠️🔴 7 晚還沒訂！趕快訂！",
     girls: []
   },
