@@ -359,10 +359,14 @@ window.LOCATIONS = [
   },
   {
     id: "chick", name: "Chick Gogo Club", area: "Walking Street", type: "agogo",
-    lat: 12.9267076, lng: 100.8737665, rating: 3,
+    lat: 12.9267076, lng: 100.8737665, rating: 4,
     address: "109 Moo 10, Nongprue, Pattaya City, Bang Lamung District, Chon Buri 20150",
-    note: "待探索",
-    girls: []
+    contact: "IG: chickclubpattaya",
+    note: "暗黑束帶風格 GoGo Bar！FELINE TEMPTRESS 貓女主題",
+    girls: [
+      { name: "#517 貓女妹", tag: "🔥 暗黑辣妹",
+        desc: "淺棕金色長髮、紅色比基尼+黑色皮革束帶（心形鏈條）、紅色 choker、手臂大面積彩色紋身、纖細有曲線、BDSM 風格" }
+    ]
   },
   {
     id: "iron", name: "Iron Club 🔥", area: "Walking Street", type: "agogo",
