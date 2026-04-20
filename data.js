@@ -456,6 +456,18 @@ window.LOCATIONS = [
     girls: []
   },
 
+  {
+    id: "eve", name: "EVE GoGo Club", area: "LK Metro", type: "agogo",
+    lat: 12.9305, lng: 100.8848, rating: 3,
+    contact: "IG: evegogoclub",
+    note: "LK Metro 新發現的 GoGo Bar！",
+    girls: [
+      { name: "紅比基尼妹", tag: "🔥",
+        build: "豐滿・胸部大",
+        desc: "黑色長直髮、皮膚白皙、紅色綁帶比基尼、性感可愛型" }
+    ]
+  },
+
   // ============ 其他 ============
   {
     id: "wild69", name: "The Wild 69 Bar", area: "Soi Buakhao", type: "bar",
