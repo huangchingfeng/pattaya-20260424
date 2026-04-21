@@ -461,6 +461,26 @@ window.LOCATIONS = [
   },
 
   {
+    id: "kimochi", name: "Kimochi Bar 🔥", area: "Soi 6", type: "bar",
+    lat: 12.9425, lng: 100.8859, rating: 5,
+    contact: "IG: kimochibarpattaya",
+    note: "阿峰老師最愛 ⭐ Yu 顏值頂級！",
+    girls: [
+      { name: "Yu", tag: "⭐⭐ 最愛！顏值頂級",
+        desc: "淺棕色長髮、皮膚超白皙、黑色蕾絲旗袍風連身裙（中式立領+露背）、纖細鎖骨美、手腕胸口小紋身、優雅性感型" }
+    ]
+  },
+  {
+    id: "toybox", name: "Toybox", area: "Soi 6", type: "bar",
+    lat: 12.9424, lng: 100.8860, rating: 3,
+    contact: "IG: toybox_soi6",
+    note: "紅+黑色調裝潢，比一般 Soi 6 bar 高級",
+    girls: [
+      { name: "黑色蕾絲妹", tag: "⭐",
+        desc: "黑色中長髮、皮膚白皙、笑容甜美、黑色蕾絲內衣風上衣（蝴蝶結）+黑色短褲、纖細腿長、甜美小性感型" }
+    ]
+  },
+  {
     id: "eve", name: "EVE GoGo Club", area: "LK Metro", type: "agogo",
     lat: 12.9305, lng: 100.8848, rating: 3,
     contact: "IG: evegogoclub",
