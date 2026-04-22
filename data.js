@@ -477,10 +477,12 @@ window.LOCATIONS = [
     id: "kimochi", name: "Kimochi Bar 🔥", area: "Soi 6", type: "bar",
     lat: 12.9425, lng: 100.8859, rating: 5,
     contact: "IG: kimochibarpattaya",
-    note: "阿峰老師最愛 ⭐ Yu 顏值頂級！",
+    note: "阿峰老師最愛 ⭐ Yu + Aommy 顏值都頂級！",
     girls: [
       { name: "Yu", tag: "⭐⭐ 最愛！顏值頂級",
-        desc: "淺棕色長髮、皮膚超白皙、黑色蕾絲旗袍風連身裙（中式立領+露背）、纖細鎖骨美、手腕胸口小紋身、優雅性感型" }
+        desc: "淺棕色長髮、皮膚超白皙、黑色蕾絲旗袍風連身裙（中式立領+露背）、纖細鎖骨美、手腕胸口小紋身、優雅性感型" },
+      { name: "Aommy", tag: "⭐ 超正",
+        desc: "黑色長直髮、皮膚超白皙、紅色碎花和服風睡袍（深V）、纖細、清純甜美型" }
     ]
   },
   {
