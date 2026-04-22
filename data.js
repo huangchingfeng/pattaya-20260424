@@ -20,7 +20,9 @@ window.LOCATIONS = [
     girls: [
       { name: "Pranee (ปราณี)", age: 26, build: "纖細有曲線", photos: ["photos/love-missile-pranee.jpg"],
         tag: "⭐", desc: "金色短髮、紅色開衩連身裙、時尚性感型、胸口有紋身",
-        hours: "2026年3月起" }
+        hours: "2026年3月起" },
+      { name: "清新妹", tag: "⭐ 新",
+        build: "纖細・腿長", desc: "棕色中長髮齊瀏海、皮膚白皙、淺藍色露腰短上衣+白色蕾絲短裙、清新可愛鄰家型" }
     ]
   },
   {
@@ -88,7 +90,9 @@ window.LOCATIONS = [
         tag: "⭐", desc: "黑色長直髮、頭戴紅花🌺、膚色健康偏深、粉紅比基尼、異國風情型",
         hours: "2026年3月起" },
       { name: "粉紫比基尼妹", build: "超豐滿・胸部很大 🔥🔥", photos: ["photos/chili-bar-songkran.jpg"],
-        tag: "🔥", desc: "黑色長髮、膚色健康偏深、粉紫色比基尼（潑水節濕身照）" }
+        tag: "🔥", desc: "黑色長髮、膚色健康偏深、粉紫色比基尼（潑水節濕身照）" },
+      { name: "黑色比基尼妹", tag: "新",
+        build: "豐滿有曲線", desc: "棕色長髮、笑容超燦爛超陽光、黑色綁帶比基尼、活潑型" }
     ]
   },
   {
@@ -144,7 +148,9 @@ window.LOCATIONS = [
         build: "豐滿・胸部很大", desc: "棕色長直髮齊瀏海、粉紅護士裝露臍、手臂紋身、笑容甜美" },
       { name: "Fon (ฝน)", age: 30, build: "超豐滿・胸部很大 🔥🔥", photos: ["photos/repent-bar-fon.jpg"],
         tag: "⭐", desc: "棕色短髮齊肩微翹、白色護士裝（紅十字）深V超低胸、成熟性感型",
-        hours: "2026年3月起" }
+        hours: "2026年3月起" },
+      { name: "學生制服妹", tag: "新",
+        build: "纖細・腿長", desc: "黑色長直髮、皮膚白皙、白色襯衫綁帶露腰+深藍色短裙、清純學生妹型" }
     ]
   },
   {
@@ -156,7 +162,8 @@ window.LOCATIONS = [
         hours: "2026年3月起" },
       { name: "辮子水手妹", photos: ["photos/sweet-bar-sailor.jpg"], tag: "🔥 新",
         build: "纖細有曲線・臀部翹", desc: "黑色長髮雙辮子、膚色健康偏深、水手服白+深藍色露腰、活潑運動型、笑容超燦爛" }
-    ]
+    ],
+    contact: "IG: sweetbarsoi6"
   },
   {
     id: "wet-six", name: "Wet Six", area: "Soi 6", type: "bar",
@@ -197,7 +204,9 @@ window.LOCATIONS = [
       { name: "Hazel", photos: ["photos/miyu-bar-hazel-ham.jpg"], tag: "新",
         desc: "黑色長髮、皮膚白皙、黑色旗袍風連身裙（中式風格）、纖細、優雅神秘型" },
       { name: "Ham", photos: ["photos/miyu-bar-hazel-ham.jpg"], tag: "新",
-        build: "豐滿", desc: "金色/淺橘色長髮、笑容甜美、黑白女僕裝蓬蓬裙、可愛女僕型" }
+        build: "豐滿", desc: "金色/淺橘色長髮、笑容甜美、黑白女僕裝蓬蓬裙、可愛女僕型" },
+      { name: "Pinploy", tag: "⭐ 新",
+        desc: "棕色長直髮、皮膚白皙、臉蛋很正、深藍色水手風制服、豐滿、清純自然型" }
     ]
   },
   {
@@ -258,7 +267,11 @@ window.LOCATIONS = [
     contact: "IG: sigon.girl.bar.soi6",
     girls: [
       { name: "紋身妹", photos: ["photos/sigon-tattoo.jpg"], tag: "⭐",
-        desc: "黑色長直髮、皮膚白皙、白色蕾絲細肩帶連身裙、手臂大面積彩色紋身（花卉）、性感個性型" }
+        desc: "黑色長直髮、皮膚白皙、白色蕾絲細肩帶連身裙、手臂大面積彩色紋身（花卉）、性感個性型" },
+      { name: "紫色制服妹", tag: "新",
+        desc: "棕色長髮、膚色健康偏深、戴牙套、紫色 SIGON GIRL 制服綁帶式+黑色短褲、曲線好臀部翹、活潑陽光型" },
+      { name: "白色蕾絲妹", tag: "新",
+        desc: "黑色長直髮、皮膚白皙、戴牙套、白色蕾絲透視連身裙、纖細、清純小性感型" }
     ]
   },
   {
@@ -345,7 +358,11 @@ window.LOCATIONS = [
       { name: "Sapphire Sweeties", photos: ["photos/sapphire-sweeties.jpg"],
         desc: "藍色比基尼雙人組、身材超好" },
       { name: "黑色鏤空妹", build: "豐滿・胸部大 🔥", photos: ["photos/sapphire-masquerade.jpg"],
-        desc: "棕金色長髮、笑容超甜、黑色鏤空比基尼、肩膀紋身（潑水節 Masquerade 特別場 4/17）" }
+        desc: "棕金色長髮、笑容超甜、黑色鏤空比基尼、肩膀紋身（潑水節 Masquerade 特別場 4/17）" },
+      { name: "束帶妹", tag: "新",
+        desc: "棕色長髮、笑容自信、黑色交叉束帶連身比基尼鏤空設計、纖細有曲線、性感派對型" },
+      { name: "皮革女王", tag: "🔥 XXXposure",
+        build: "豐滿・胸部大", desc: "深棕色長髮、紅唇妝容精緻、黑色皮革連身裙深V+網狀絲襪+長靴、暗黑女王型氣場爆棚" }
     ]
   },
   {
@@ -371,7 +388,9 @@ window.LOCATIONS = [
       { name: "紅色戰士妹", tag: "⭐ 可愛戰士",
         desc: "黑色長髮、笑容甜美、紅色面罩+紅色手套+黑色比基尼+紅色交叉束帶、格鬥/摔角風格" },
       { name: "鎖鏈紋身妹", tag: "🔥 暗黑女王",
-        desc: "棕色長直髮馬尾、臉蛋精緻、黑色蕾絲比基尼+皮革束帶+鎖鏈裝飾、手臂大面積紋身、纖細有曲線、氣場超強" }
+        desc: "棕色長直髮馬尾、臉蛋精緻、黑色蕾絲比基尼+皮革束帶+鎖鏈裝飾、手臂大面積紋身、纖細有曲線、氣場超強" },
+      { name: "紅色制服妹×2", tag: "Tuesday Night",
+        desc: "紅黑色賽車風統一制服（LOVE SAID 字樣）、一甜美一成熟" }
     ]
   },
   {
