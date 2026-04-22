@@ -43,7 +43,9 @@ window.LOCATIONS = [
       { name: "女孩 #2 & #3", photos: ["photos/offshore-bar-2girls.jpg"],
         desc: "黑直髮嬌小妹 + 棕辮子甜美妹，銀色比基尼" },
       { name: "護士妹 🔥🔥", tag: "⭐⭐ 超性感", photos: ["photos/offshore-bar-nurse.jpg"],
-        desc: "紅白護士裝 + 白色蓬蓬裙" }
+        desc: "紅白護士裝 + 白色蓬蓬裙" },
+      { name: "清純妹", tag: "⭐ 新",
+        desc: "淺棕色長髮、皮膚超白皙、淺藍色交叉綁帶上衣+白色短褲、纖細清純鄰家型" }
     ]
   },
   {
@@ -460,6 +462,17 @@ window.LOCATIONS = [
     girls: []
   },
 
+  {
+    id: "tomcats", name: "Tomcats", area: "Soi 6", type: "bar",
+    lat: 12.9423, lng: 100.8866, rating: 5,
+    contact: "IG: tomcatspattayasoi6",
+    note: "被 Offshore Bar IG 轉發！阿峰老師最愛 ⭐",
+    girls: [
+      { name: "蛇紋超模妹", tag: "⭐⭐ 最愛！身材超猛",
+        build: "超高170+・腿超長・曲線完美 🔥🔥🔥",
+        desc: "黑色長直髮、膚色健康偏深、銀灰色蛇紋比基尼、超模型像維密天使" }
+    ]
+  },
   {
     id: "kimochi", name: "Kimochi Bar 🔥", area: "Soi 6", type: "bar",
     lat: 12.9425, lng: 100.8859, rating: 5,
