@@ -21,7 +21,7 @@ window.LOCATIONS = [
       { name: "Pranee (ปราณี)", age: 26, build: "纖細有曲線", photos: ["photos/love-missile-pranee.jpg"],
         tag: "⭐", desc: "金色短髮、紅色開衩連身裙、時尚性感型、胸口有紋身",
         hours: "2026年3月起" },
-      { name: "清新妹", tag: "⭐ 新",
+      { name: "清新妹", tag: "⭐ 新", photos: ["photos/love-missile-blue.jpg"],
         build: "纖細・腿長", desc: "棕色中長髮齊瀏海、皮膚白皙、淺藍色露腰短上衣+白色蕾絲短裙、清新可愛鄰家型" }
     ]
   },
@@ -46,7 +46,7 @@ window.LOCATIONS = [
         desc: "黑直髮嬌小妹 + 棕辮子甜美妹，銀色比基尼" },
       { name: "護士妹 🔥🔥", tag: "⭐⭐ 超性感", photos: ["photos/offshore-bar-nurse.jpg"],
         desc: "紅白護士裝 + 白色蓬蓬裙" },
-      { name: "清純妹", tag: "⭐ 新",
+      { name: "清純妹", tag: "⭐ 新", photos: ["photos/offshore-pure.jpg"],
         desc: "淺棕色長髮、皮膚超白皙、淺藍色交叉綁帶上衣+白色短褲、纖細清純鄰家型" }
     ]
   },
@@ -91,7 +91,7 @@ window.LOCATIONS = [
         hours: "2026年3月起" },
       { name: "粉紫比基尼妹", build: "超豐滿・胸部很大 🔥🔥", photos: ["photos/chili-bar-songkran.jpg"],
         tag: "🔥", desc: "黑色長髮、膚色健康偏深、粉紫色比基尼（潑水節濕身照）" },
-      { name: "黑色比基尼妹", tag: "新",
+      { name: "黑色比基尼妹", tag: "新", photos: ["photos/chili-black-bikini.jpg"],
         build: "豐滿有曲線", desc: "棕色長髮、笑容超燦爛超陽光、黑色綁帶比基尼、活潑型" }
     ]
   },
@@ -149,7 +149,7 @@ window.LOCATIONS = [
       { name: "Fon (ฝน)", age: 30, build: "超豐滿・胸部很大 🔥🔥", photos: ["photos/repent-bar-fon.jpg"],
         tag: "⭐", desc: "棕色短髮齊肩微翹、白色護士裝（紅十字）深V超低胸、成熟性感型",
         hours: "2026年3月起" },
-      { name: "學生制服妹", tag: "新",
+      { name: "學生制服妹", tag: "新", photos: ["photos/repent-student.jpg"],
         build: "纖細・腿長", desc: "黑色長直髮、皮膚白皙、白色襯衫綁帶露腰+深藍色短裙、清純學生妹型" }
     ]
   },
@@ -205,7 +205,7 @@ window.LOCATIONS = [
         desc: "黑色長髮、皮膚白皙、黑色旗袍風連身裙（中式風格）、纖細、優雅神秘型" },
       { name: "Ham", photos: ["photos/miyu-bar-hazel-ham.jpg"], tag: "新",
         build: "豐滿", desc: "金色/淺橘色長髮、笑容甜美、黑白女僕裝蓬蓬裙、可愛女僕型" },
-      { name: "Pinploy", tag: "⭐ 新",
+      { name: "Pinploy", tag: "⭐ 新", photos: ["photos/miyu-pinploy.jpg"],
         desc: "棕色長直髮、皮膚白皙、臉蛋很正、深藍色水手風制服、豐滿、清純自然型" }
     ]
   },
@@ -268,9 +268,9 @@ window.LOCATIONS = [
     girls: [
       { name: "紋身妹", photos: ["photos/sigon-tattoo.jpg"], tag: "⭐",
         desc: "黑色長直髮、皮膚白皙、白色蕾絲細肩帶連身裙、手臂大面積彩色紋身（花卉）、性感個性型" },
-      { name: "紫色制服妹", tag: "新",
+      { name: "紫色制服妹", tag: "新", photos: ["photos/sigon-purple.jpg"],
         desc: "棕色長髮、膚色健康偏深、戴牙套、紫色 SIGON GIRL 制服綁帶式+黑色短褲、曲線好臀部翹、活潑陽光型" },
-      { name: "白色蕾絲妹", tag: "新",
+      { name: "白色蕾絲妹", tag: "新", photos: ["photos/sigon-white-lace.jpg"],
         desc: "黑色長直髮、皮膚白皙、戴牙套、白色蕾絲透視連身裙、纖細、清純小性感型" }
     ]
   },
@@ -335,7 +335,7 @@ window.LOCATIONS = [
       { name: "Fern", age: 23, desc: "紅色比基尼、性感" },
       { name: "Noch", age: 21, desc: "黑色比基尼" },
       { name: "Ratchanee", age: 24, desc: "紅色比基尼、紋身" },
-      { name: "Dew", age: 20, tag: "超嫩", desc: "年紀最小" },
+      { name: "Dew", age: 20, tag: "超嫩", photos: ["photos/fahrenheit-red.jpg"], desc: "年紀最小" },
       { name: "Ink", age: 22, desc: "黑色裝扮" },
       { name: "Sin", age: 22, desc: "紅色比基尼" },
       { name: "June", age: 25, desc: "紅色比基尼、手臂大面積紋身" }
@@ -359,9 +359,9 @@ window.LOCATIONS = [
         desc: "藍色比基尼雙人組、身材超好" },
       { name: "黑色鏤空妹", build: "豐滿・胸部大 🔥", photos: ["photos/sapphire-masquerade.jpg"],
         desc: "棕金色長髮、笑容超甜、黑色鏤空比基尼、肩膀紋身（潑水節 Masquerade 特別場 4/17）" },
-      { name: "束帶妹", tag: "新",
+      { name: "束帶妹", tag: "新", photos: ["photos/sapphire-strap.jpg"],
         desc: "棕色長髮、笑容自信、黑色交叉束帶連身比基尼鏤空設計、纖細有曲線、性感派對型" },
-      { name: "皮革女王", tag: "🔥 XXXposure",
+      { name: "皮革女王", tag: "🔥 XXXposure", photos: ["photos/sapphire-leather.jpg"],
         build: "豐滿・胸部大", desc: "深棕色長髮、紅唇妝容精緻、黑色皮革連身裙深V+網狀絲襪+長靴、暗黑女王型氣場爆棚" }
     ]
   },
@@ -383,13 +383,13 @@ window.LOCATIONS = [
     contact: "IG: chickclubpattaya",
     note: "暗黑束帶風格 GoGo Bar！FELINE TEMPTRESS 貓女主題",
     girls: [
-      { name: "#517 貓女妹", tag: "🔥 暗黑辣妹",
+      { name: "#517 貓女妹", tag: "🔥 暗黑辣妹", photos: ["photos/chick-517.jpg"],
         desc: "淺棕金色長髮、紅色比基尼+黑色皮革束帶（心形鏈條）、紅色 choker、手臂大面積彩色紋身、纖細有曲線、BDSM 風格" },
-      { name: "紅色戰士妹", tag: "⭐ 可愛戰士",
+      { name: "紅色戰士妹", tag: "⭐ 可愛戰士", photos: ["photos/chick-red-warrior.jpg"],
         desc: "黑色長髮、笑容甜美、紅色面罩+紅色手套+黑色比基尼+紅色交叉束帶、格鬥/摔角風格" },
-      { name: "鎖鏈紋身妹", tag: "🔥 暗黑女王",
+      { name: "鎖鏈紋身妹", tag: "🔥 暗黑女王", photos: ["photos/chick-chain-queen.jpg"],
         desc: "棕色長直髮馬尾、臉蛋精緻、黑色蕾絲比基尼+皮革束帶+鎖鏈裝飾、手臂大面積紋身、纖細有曲線、氣場超強" },
-      { name: "紅色制服妹×2", tag: "Tuesday Night",
+      { name: "紅色制服妹×2", tag: "Tuesday Night", photos: ["photos/chick-tuesday.jpg"],
         desc: "紅黑色賽車風統一制服（LOVE SAID 字樣）、一甜美一成熟" }
     ]
   },
@@ -487,7 +487,7 @@ window.LOCATIONS = [
     contact: "IG: tomcatspattayasoi6",
     note: "被 Offshore Bar IG 轉發！阿峰老師最愛 ⭐",
     girls: [
-      { name: "蛇紋超模妹", tag: "⭐⭐ 最愛！身材超猛",
+      { name: "蛇紋超模妹", tag: "⭐⭐ 最愛！身材超猛", photos: ["photos/tomcats-snake.jpg"],
         build: "超高170+・腿超長・曲線完美 🔥🔥🔥",
         desc: "黑色長直髮、膚色健康偏深、銀灰色蛇紋比基尼、超模型像維密天使" }
     ]
@@ -498,9 +498,9 @@ window.LOCATIONS = [
     contact: "IG: kimochibarpattaya",
     note: "阿峰老師最愛 ⭐ Yu + Aommy 顏值都頂級！",
     girls: [
-      { name: "Yu", tag: "⭐⭐ 最愛！顏值頂級",
+      { name: "Yu", tag: "⭐⭐ 最愛！顏值頂級", photos: ["photos/kimochi-yu.jpg"],
         desc: "淺棕色長髮、皮膚超白皙、黑色蕾絲旗袍風連身裙（中式立領+露背）、纖細鎖骨美、手腕胸口小紋身、優雅性感型" },
-      { name: "Aommy", tag: "⭐ 超正",
+      { name: "Aommy", tag: "⭐ 超正", photos: ["photos/kimochi-aommy.jpg"],
         desc: "黑色長直髮、皮膚超白皙、紅色碎花和服風睡袍（深V）、纖細、清純甜美型" }
     ]
   },
@@ -510,7 +510,7 @@ window.LOCATIONS = [
     contact: "IG: toybox_soi6",
     note: "紅+黑色調裝潢，比一般 Soi 6 bar 高級",
     girls: [
-      { name: "黑色蕾絲妹", tag: "⭐",
+      { name: "黑色蕾絲妹", tag: "⭐", photos: ["photos/toybox-lace.jpg"],
         desc: "黑色中長髮、皮膚白皙、笑容甜美、黑色蕾絲內衣風上衣（蝴蝶結）+黑色短褲、纖細腿長、甜美小性感型" }
     ]
   },
@@ -520,7 +520,7 @@ window.LOCATIONS = [
     contact: "IG: evegogoclub",
     note: "LK Metro 新發現的 GoGo Bar！",
     girls: [
-      { name: "紅比基尼妹", tag: "🔥",
+      { name: "紅比基尼妹", tag: "🔥", photos: ["photos/eve-red-bikini.jpg"],
         build: "豐滿・胸部大",
         desc: "黑色長直髮、皮膚白皙、紅色綁帶比基尼、性感可愛型" }
     ]
