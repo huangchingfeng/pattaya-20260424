@@ -325,6 +325,80 @@ window.LOCATIONS = [
     ]
   },
 
+
+  {
+    id: "the-spot", name: "The Spot", area: "Soi 6", type: "bar",
+    lat: 12.9426298, lng: 100.8855644, rating: 3,
+    note: "Beer Bar。15:00-02:00，500 THB 起",
+    girls: []
+  },
+  {
+    id: "kawaii", name: "Kawaii Bar", area: "Soi 6", type: "bar",
+    lat: 12.9423683, lng: 100.8864313, rating: 3,
+    note: "Beer Bar。15:00-01:00，500 THB 起",
+    girls: []
+  },
+  {
+    id: "cooters", name: "Cooters", area: "Soi 6", type: "bar",
+    lat: 12.9426144, lng: 100.8856048, rating: 3,
+    note: "Beer Bar。16:00-02:00，500 THB 起",
+    girls: []
+  },
+  {
+    id: "boofies", name: "Boofies", area: "Soi 6", type: "bar",
+    lat: 12.9426122, lng: 100.8857294, rating: 3,
+    note: "Beer Bar。15:00-02:00，500 THB 起",
+    girls: []
+  },
+  {
+    id: "saigon-girl", name: "Saigon Girl Bar", area: "Soi 6", type: "bar",
+    lat: 12.9417819, lng: 100.8876647, rating: 3,
+    note: "Beer Bar。15:00-01:00，500 THB 起",
+    girls: []
+  },
+  {
+    id: "candy", name: "Candy Bar", area: "Soi 6", type: "bar",
+    lat: 12.9422281, lng: 100.886849, rating: 3,
+    note: "Beer Bar。16:00-02:00，500 THB 起",
+    girls: []
+  },
+  {
+    id: "booty-call", name: "Booty Call", area: "Soi 6", type: "bar",
+    lat: 12.9423492, lng: 100.8861855, rating: 3,
+    note: "Beer Bar。16:00-02:00，500 THB 起",
+    girls: []
+  },
+  {
+    id: "good-fellas", name: "Good Fellas Bar", area: "Soi 6", type: "bar",
+    lat: 12.9419177, lng: 100.8877234, rating: 3,
+    note: "Beer Bar。15:00-01:00，500 THB 起",
+    girls: []
+  },
+  {
+    id: "la-la-land", name: "La La Land Bar", area: "Soi 6", type: "bar",
+    lat: 12.9428035, lng: 100.8851881, rating: 3,
+    note: "Beer Bar。16:00-02:00，500 THB 起",
+    girls: []
+  },
+  {
+    id: "desire", name: "Desire Bar", area: "Soi 6", type: "bar",
+    lat: 12.9422634, lng: 100.8867582, rating: 3,
+    note: "Beer Bar。14:00-01:00，500 THB 起",
+    girls: []
+  },
+  {
+    id: "sexy-in-city", name: "Sexy In The City", area: "Soi 6", type: "bar",
+    lat: 12.9421685, lng: 100.8870579, rating: 3,
+    note: "Beer Bar。14:00-01:00，500 THB 起",
+    girls: []
+  },
+  {
+    id: "mods", name: "Mod\'s Bar", area: "Soi 6", type: "bar",
+    lat: 12.9419687, lng: 100.8876041, rating: 3,
+    note: "Beer Bar。15:00-01:00，500 THB 起",
+    girls: []
+  },
+
   // ============ Walking Street ============
   {
     id: "fahrenheit", name: "Fahrenheit A Go Go", area: "Walking Street", type: "agogo",
@@ -466,6 +540,56 @@ window.LOCATIONS = [
     ]
   },
 
+
+  {
+    id: "myst", name: "MYST Club", area: "Walking Street", type: "club",
+    lat: 12.9251767, lng: 100.871546, rating: 4,
+    note: "夜店！Hip Hop 音樂、舞台表演、VIP區。22:30-07:30，1,000 THB 起",
+    girls: []
+  },
+  {
+    id: "windmill", name: "Windmill Agogo", area: "Walking Street", type: "agogo",
+    lat: 12.925877, lng: 100.8738265, rating: 4,
+    note: "老牌 Agogo Bar！鋼管舞+現場海選。19:00-03:30，1,000 THB 起",
+    girls: []
+  },
+  {
+    id: "palace", name: "Palace Agogo", area: "Walking Street", type: "agogo",
+    lat: 12.9261735, lng: 100.8729829, rating: 4,
+    note: "日韓系+顏值系！鋼管舞+現場海選。20:00-02:00，1,000 THB 起",
+    girls: []
+  },
+  {
+    id: "club-panda", name: "Club Panda 🎉", area: "Walking Street", type: "club",
+    lat: 12.9254312, lng: 100.8712231, rating: 4,
+    note: "EDM 夜店！支持微信支付+支付寶。中文OK！21:00-04:00，1,000 THB 起",
+    girls: []
+  },
+  {
+    id: "insomnia", name: "Club Insomnia", area: "Walking Street", type: "club",
+    lat: 12.9258298, lng: 100.8715133, rating: 3,
+    note: "EDM/House 夜店，VIP區。20:00-03:00，1,000 THB 起",
+    girls: []
+  },
+  {
+    id: "lucifer", name: "Lucifer Club", area: "Walking Street", type: "club",
+    lat: 12.9263786, lng: 100.8728981, rating: 4,
+    note: "EDM/Hip Hop/拉丁 夜店，VIP區。22:00-04:00，1,000 THB 起",
+    girls: []
+  },
+  {
+    id: "electric-blue", name: "Club Electric Blue", area: "Walking Street", type: "agogo",
+    lat: 12.9260797, lng: 100.8736227, rating: 4,
+    note: "Agogo Bar，鋼管舞+現場海選（評分 4.1）。19:00-03:30，1,000 THB 起",
+    girls: []
+  },
+  {
+    id: "stones-house", name: "The Stones House", area: "Walking Street", type: "bar",
+    lat: 12.9272072, lng: 100.8745313, rating: 3,
+    note: "Live Music Bar！搖滾/流行現場音樂+餐飲。18:00-04:00，1,000 THB 起",
+    girls: []
+  },
+
   // ============ LK Metro ============
   {
     id: "las-vegas", name: "Las Vegas Agogo", area: "LK Metro", type: "agogo",
@@ -603,6 +727,20 @@ window.LOCATIONS = [
     note: "Soi Buakhao 是在地人夜生活區",
     girls: [ { name: "Kimmy", tag: "⭐ 也不錯", desc: "上次認識" } ]
   },
+
+  {
+    id: "kink", name: "KINK Pattaya", area: "LK Metro", type: "agogo",
+    lat: 12.9297345, lng: 100.8842325, rating: 4,
+    note: "LK Metro Agogo Bar。20:00-03:00，1,000 THB 起",
+    girls: []
+  },
+  {
+    id: "queen-club", name: "Queen Club", area: "LK Metro", type: "agogo",
+    lat: 12.9299953, lng: 100.8843606, rating: 3,
+    note: "LK Metro Agogo Bar。20:00-03:00，1,000 THB 起",
+    girls: []
+  },
+
   // ============ 住宿 ============
   {
     id: "muxa", name: "🏨 MUXA 中心海景公寓", area: "Soi 6", type: "hotel",
