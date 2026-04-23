@@ -561,15 +561,40 @@ window.LOCATIONS = [
 
   // ============ 其他 ============
   {
-    id: "heaven-above", name: "Heaven Above", area: "Soi Buakhao", type: "bar",
-    lat: 12.9342, lng: 100.8779, rating: 4,
-    note: "高級 Lounge Bar 風格！深藍皮革沙發+藍色燈光",
+    id: "heaven-above", name: "Heaven Above", area: "Soi Buakhao", type: "agogo",
+    lat: 12.9276782, lng: 100.8832331, rating: 4,
+    note: "紳士俱樂部！30-40名女孩，紫色主調，環繞式沙發+鋼管舞台。17:00-03:00，1,000 THB 起",
     girls: [
       { name: "成熟妹", photos: ["photos/heaven-above-girls.jpg"],
         desc: "棕色長髮、膚色健康偏深、棕色襯衫、Gucci 手錶、成熟型" },
       { name: "清純妹", photos: ["photos/heaven-above-girls.jpg"],
         desc: "黑色短髮、皮膚超白皙、戴牙套、白色上衣+黃色裙子、超年輕清純型" }
     ]
+  },
+  {
+    id: "playgirlz", name: "PlayGirlz Club", area: "Soi Buakhao", type: "agogo",
+    lat: 12.928077, lng: 100.8735059, rating: 4,
+    note: "Soi Boomerang 回力巷。每天 40-50 名女孩！寬敞舞台，每 10 分鐘輪換。有 VIP 包廂。20:00-02:00，1,000 THB 起",
+    girls: []
+  },
+  {
+    id: "pink-baby", name: "Pink Baby Agogo", area: "Soi Buakhao", type: "agogo",
+    lat: 12.9280371, lng: 100.8834741, rating: 3,
+    note: "日本人經營，規模較小私密。約十多名女孩，年齡偏年輕。⚠️ 注意媽媽桑催酒。19:00-02:00，1,000 THB 起",
+    girls: []
+  },
+  {
+    id: "red-hot-blue", name: "Red Hot & Blue", area: "Soi Buakhao", type: "agogo",
+    lat: 12.9269881, lng: 100.8830035, rating: 3,
+    address: "281 5-6 Soi Buakhao, Nongprue, Bang Lamung",
+    note: "小型 Agogo Bar。約十多名女孩，穿統一主題制服（足球寶貝、比基尼、學生裝）。19:00-02:00，1,000 THB 起",
+    girls: []
+  },
+  {
+    id: "dirty-money", name: "Dirty Money Agogo", area: "Soi Buakhao", type: "agogo",
+    lat: 12.9256591, lng: 100.8759515, rating: 3,
+    note: "2025 年新開業。下午 5 點就開！最多 30 名女孩。17:00-01:00，1,000 THB 起",
+    girls: []
   },
   {
     id: "wild69", name: "The Wild 69 Bar", area: "Soi Buakhao", type: "bar",
