@@ -31,7 +31,9 @@ window.LOCATIONS = [
     girls: [
       { name: "Mali (มะลิ)", age: 20, build: "豐滿・胸部很大 🔥", photos: ["photos/oppa-bar-mali.jpg"],
         tag: "⭐ 超嫩", desc: "黑色長直髮、皮膚白皙、深藍交叉綁帶連身裙、清純可愛但身材反差猛",
-        hours: "2026年2月起" }
+        hours: "2026年2月起" },
+      { name: "眼鏡雙馬尾妹", tag: "🔥 2447觀看！", photos: ["photos/oppa-glasses.jpg"],
+        build: "豐滿", desc: "黑色長直髮雙馬尾+白色蝴蝶結、圓框眼鏡、棕色平口上衣流蘇裝飾+黑短裙、鎖骨紋身、日系眼鏡娘型、超高人氣" }
     ]
   },
   {
@@ -475,10 +477,15 @@ window.LOCATIONS = [
   },
   {
     id: "sugar-sugar", name: "Sugar Sugar Agogo", area: "LK Metro", type: "agogo",
-    lat: 12.929558, lng: 100.885235, rating: 3,
+    lat: 12.929558, lng: 100.885235, rating: 5,
     address: "Red Light District, LK Metro Aly, Pattaya City, Bang Lamung District, Chon Buri 20150",
-    note: "阿峰老師覺得不錯！",
-    girls: []
+    note: "3,877 觀看！天使雙人組超高人氣",
+    girls: [
+      { name: "天使妹 #66", tag: "⭐", photos: ["photos/sugar-sugar-angels.jpg"],
+        desc: "棕色長髮、笑容甜、白色比基尼+白色網狀絲襪+天使頭飾、鎖骨紋身、甜美型" },
+      { name: "天使妹（白）", photos: ["photos/sugar-sugar-angels.jpg"],
+        desc: "淺棕色長髮、皮膚白皙、白色比基尼+黑色網狀絲襪+天使頭飾、纖細清純型" }
+    ]
   },
 
   {
@@ -526,7 +533,44 @@ window.LOCATIONS = [
     ]
   },
 
+  {
+    id: "topgun", name: "Top Gun Agogo", area: "Walking Street", type: "agogo",
+    lat: 12.9265, lng: 100.8735, rating: 4,
+    contact: "IG: topgun.agogo",
+    girls: [
+      { name: "鋼管舞雙人組", tag: "🔥", photos: ["photos/topgun-pole.jpg"],
+        desc: "粉紅綁帶比基尼×2、透明高跟鞋（鋼管舞專用）、都有紋身、身材超好臀部翹" }
+    ]
+  },
+  {
+    id: "maggie-choo", name: "Maggie Choo's 🔥", area: "Soi 6", type: "bar",
+    lat: 12.9424, lng: 100.8863, rating: 5,
+    contact: "Twitter: @MaggiChoosPattaya",
+    note: "Twitter 1,770 則貼文！超活躍，Cash Only 💰",
+    girls: [
+      { name: "白色比基尼妹", photos: ["photos/maggie-choo-white.jpg"],
+        build: "豐滿・胸部大", desc: "棕色長髮齊瀏海、皮膚白皙、白色比基尼+白色短褲、鎖骨紋身、清純性感型" },
+      { name: "黑粉比基尼妹", photos: ["photos/maggie-choo-black-pink.jpg"],
+        desc: "棕色長髮、黑色比基尼上衣+粉紅褲、纖細腰細、甜美性感型" },
+      { name: "金髮亮片妹", tag: "🔥", photos: ["photos/maggie-choo-gold.jpg"],
+        build: "超豐滿・胸部很大", desc: "金色短髮、黑色亮片比基尼+粉色褲、肚臍紋身、辣妹型、285觀看" },
+      { name: "紅色比基尼妹", tag: "⭐ 人氣最高", photos: ["photos/maggie-choo-red.jpg"],
+        desc: "棕色長髮、臉蛋超正、紅色比基尼、纖細有曲線、清純性感型、438觀看" }
+    ]
+  },
+
   // ============ 其他 ============
+  {
+    id: "heaven-above", name: "Heaven Above", area: "Soi Buakhao", type: "bar",
+    lat: 12.9342, lng: 100.8779, rating: 4,
+    note: "高級 Lounge Bar 風格！深藍皮革沙發+藍色燈光",
+    girls: [
+      { name: "成熟妹", photos: ["photos/heaven-above-girls.jpg"],
+        desc: "棕色長髮、膚色健康偏深、棕色襯衫、Gucci 手錶、成熟型" },
+      { name: "清純妹", photos: ["photos/heaven-above-girls.jpg"],
+        desc: "黑色短髮、皮膚超白皙、戴牙套、白色上衣+黃色裙子、超年輕清純型" }
+    ]
+  },
   {
     id: "wild69", name: "The Wild 69 Bar", area: "Soi Buakhao", type: "bar",
     lat: 12.9276933, lng: 100.8832991, rating: 3,
